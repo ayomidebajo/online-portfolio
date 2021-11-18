@@ -14,7 +14,12 @@ const breakPoints = [
 ];
 
 function Projects() {
-  const items = [simpleDashboard, ecommerce, booksClub, blogPress];
+  const items = [
+    { img: simpleDashboard, url: "https://simple-dashboard-ui.netlify.app" },
+    { img: ecommerce, url: "https://my-e-commerce-store.netlify.app" },
+    { img: booksClub, url: "https://books-club.netlify.app" },
+    { img: blogPress, url: "https://blogpress.netlify.app" },
+  ];
 
   return (
     <div>
