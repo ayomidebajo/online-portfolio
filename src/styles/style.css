@@ -317,63 +317,15 @@ a:hover {
   background-color: #f1fff8;
 }
 
-/* .fourth-section {
-  clip-path: polygon(0 0, 100% 0, 100% 94%, 64% 91%, 33% 91%, 0 94%);
-  background-color: #037b40;
-  min-height: 100vh;
-  max-height: 100%;
-} */
-
-.fourth-section__dots {
-  position: absolute;
-  top: 1.5em;
-  left: 2.5em;
-}
-
-.fourth-section__dots-container {
-  position: relative;
-  margin-bottom: 50px;
-}
-
-.fourth-section__dots-right {
-  position: absolute;
-  top: -5.5em;
-  right: 2.5em;
-}
-
 .card-custom__light-green {
   background-color: #edfff6;
   min-height: 400px;
   max-height: 100%;
   z-index: 20;
-  /* width: 60%; */
-  /* padding: 30px; */
   border-radius: 5px;
   -webkit-box-shadow: 0px 1px 5px 0px rgba(183, 192, 206, 0.4);
   -moz-box-shadow: 0px 1px 5px 0px rgba(183, 192, 206, 0.4);
   box-shadow: 0px 1px 5px 0px rgba(183, 192, 206, 0.4);
-}
-
-.secondary-color_background {
-  background-color: #046a37;
-}
-
-/* .download-app {
-  align-items: center;
-} */
-
-.btn-green-white_border {
-  background-color: #046a37;
-  color: #fff;
-
-  font-weight: 500;
-  border: 1px solid #fff;
-}
-
-.btn-green-white_border:hover {
-  color: #fff;
-  opacity: 0.7;
-  transition: 0.3s;
 }
 
 .getStarted {
@@ -5247,7 +5199,7 @@ input[type="button"].btn-block {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -ms-flex-align: center;
-  align-items: center;
+  /* align-items: center; */
   -ms-flex-pack: justify;
   justify-content: space-between;
 }
@@ -5350,15 +5302,9 @@ input[type="button"].btn-block {
 .nav-menu {
   display: flex;
   justify-content: space-between;
-  /* align-items: center; */
-  /* gap: 15x; */
 }
 
-.arrow-down {
-  fill: #047b40;
-}
-
-@media (max-width: 768px) {
+@media (max-width: 968px) {
   .hamburger {
     display: block;
   }

@@ -57,7 +57,7 @@ class Home extends Component {
                   : "bg-transparent"
               }`}
             >
-              <div className="container">
+              <div className="container-lg">
                 <a className="navbar-brand mr-auto" href="#home">
                   <svg
                     width="201"
