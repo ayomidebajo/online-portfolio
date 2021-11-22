@@ -15,10 +15,26 @@ const breakPoints = [
 
 function Projects() {
   const items = [
-    { img: simpleDashboard, url: "https://simple-dashboard-ui.netlify.app" },
-    { img: ecommerce, url: "https://my-e-commerce-store.netlify.app" },
-    { img: booksClub, url: "https://books-club.netlify.app" },
-    { img: blogPress, url: "https://blogpress.netlify.app" },
+    {
+      img: booksClub,
+      url: "https://books-club.netlify.app",
+      title: "A BooksClub",
+    },
+    {
+      img: blogPress,
+      url: "https://blogpress.netlify.app",
+      title: "Blogpress",
+    },
+    {
+      img: ecommerce,
+      url: "https://my-e-commerce-store.netlify.app",
+      title: "An ecommerce web app",
+    },
+    {
+      img: simpleDashboard,
+      url: "https://simple-dashboard-ui.netlify.app",
+      title: "A simple dashboard (Web view only)",
+    },
   ];
 
   return (
