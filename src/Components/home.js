@@ -129,7 +129,7 @@ class Home extends Component {
                     </li>
                     <li className="nav-item">
                       <a
-                        href="https://docs.google.com/document/d/19uTKkrEPVC8QuHQCIDYOZfsdRC_ethUG/edit?usp=sharing&ouid=111297763769280864443&rtpof=true&sd=true"
+                        href="https://docs.google.com/document/d/1ESx1nmsF-aTmMdh51WYUtRCe9AMUtCBH4H59Uzk9MOc/edit?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -231,7 +231,7 @@ class Home extends Component {
               </div>
               <div className="secondary-color">
                 <a
-                  href="https://docs.google.com/document/d/19uTKkrEPVC8QuHQCIDYOZfsdRC_ethUG/edit?usp=sharing&ouid=111297763769280864443&rtpof=true&sd=true"
+                  href="https://docs.google.com/document/d/1ESx1nmsF-aTmMdh51WYUtRCe9AMUtCBH4H59Uzk9MOc/edit?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -22,7 +22,7 @@ function Experience() {
         <div className="row mt-5">
           <div className="col-lg-6 ">
             <p className="h6 font-weight-bold">
-              Associate software developer - Ikooba technologies(BMAC solutions)
+              Frontend Engineer - Ikooba technologies(BMAC solutions)
             </p>
             <small>Sep 2020 - Nov 2021</small>
           </div>
